@@ -1,4 +1,4 @@
-package net.codejava;
+package net.code;
 
 import java.util.List;
 
